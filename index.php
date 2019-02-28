@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>BJS CodeDeploySample</title>
+  <title>AWS CodeDeploySample Jenkins BSH by Andrewxu </title>
   <style>
     body {
       color: #ffffff;
@@ -26,7 +26,7 @@
 </head>
 <body>
   <div align="center">
-    <h1>AWS DevOps Demo for BSH Andrewxu-V1</h1>
+    <h1>AWS DevOps Demo for BSH Andrewxu-V2</h1>
     <h2>Github +  CodeDeploy + Jenkins</h2>
     <h2>AWS CodeDeploy Demo</h2>
   </div>
