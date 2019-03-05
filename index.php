@@ -26,9 +26,9 @@
 </head>
 <body>
   <div align="center">
-    <h1>AWS DevOps Demo for BSH Andrewxu-V2</h1>
+    <h1>AWS DevOps Demo for BSH Andrewxu-V1.1</h1>
     <h2>Github +  CodeDeploy + Jenkins</h2>
-    <h2>AWS CodeDeploy Demo</h2>
+    <h2>AWS CodeDeploy Demo v1.1</h2>
   </div>
   </br>
   <div align="center">
